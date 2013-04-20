@@ -20,4 +20,5 @@ int abs(int x) {
 
 void showMsg(char * msg)
 {
+	int a;
 }
