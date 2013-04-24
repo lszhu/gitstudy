@@ -7,7 +7,7 @@ int main() {
 	for (i = 1; i < 5; i++) {
 		printf(ch);
 	}
-	while(i > 0) {
+	while(i > 1) {
 	  puts(ch);
 	  i--;
 }
@@ -22,6 +22,6 @@ void showMsg(char * msg)
 {
 	int a;
 	a = -1;
-	for (var i = a ; i < 9; i++)
+	for (var i = -a ; i < 9; i++)
 		printf("%d,", i);
 }
