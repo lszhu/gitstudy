@@ -21,7 +21,7 @@ int abs(int x) {
 void showMsg(char * msg)
 {
 	int a;
-	a = -1;
+	a = 1;
 	for (var i = -a ; i < 9; i++)
 		printf("%d,", i);
 }
