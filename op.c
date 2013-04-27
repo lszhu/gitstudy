@@ -10,6 +10,7 @@ int sum(int a ,int b) {
 }
 int power(int a, int b)
 {
-	int sum = 0;
-
-
+	int sum = 1;
+	for (; b > 0; b--)
+		sum *= a;
+}
