@@ -1,5 +1,4 @@
 3 is a prime
-4 has a factor: 2
 5 is a prime
 6 has a factor: 2
 7 is a prime
